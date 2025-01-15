@@ -22,7 +22,7 @@ export default function Header() {
 
               <li className="sm:before:w-[1px] sm:before:bg-gray-100 before:block flex sm:gap-4 md:gap-6">
                 <Link
-                  className="rounded-full flex gap-2 items-center bg-black hover:bg-[#4fbbff] focus:bg-[#4fbbff] p-1 sm:py-3 sm:px-6 text-white transition-colors duration-200"
+                  className="rounded-full flex gap-2 items-center bg-black hover:bg-gray-800 focus:bg-black p-1 sm:py-3 sm:px-6 text-white transition-colors duration-200"
                   href="https://github.com/ed-robles"
                   target="_blank"
                   rel="noopener noreferrer"
