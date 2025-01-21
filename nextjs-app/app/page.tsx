@@ -10,7 +10,7 @@ export default async function Page() {
         <div className="container relative">
           <div className="mx-auto max-w-2xl py-20 lg:max-w-4xl lg:px-12 text-center">
             <div className="flex flex-col gap-4 items-center">
-                <div className="text-4xl md:text-6xl lg:text-7xl font-bold uppercase">
+                <div className="text-2xl md:text-6xl lg:text-7xl font-bold uppercase">
                 Welcome to my blog!
               </div>
             </div>
