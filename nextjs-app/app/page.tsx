@@ -4,7 +4,7 @@ import { AllPosts } from "@/app/components/Posts";
 export default async function Page() {
   return (
     <>
-      <div className="bg-gradient-to-r from-blue-100 from-40% via-white  relative">
+      <div className="bg-gradient-to-r from-blue-200 from-40% via-white  relative">
         <div className="bg-gradient-to-b from-white w-full h-40 absolute top-0"></div>
         <div className="bg-gradient-to-t from-white w-full h-40 absolute bottom-0"></div>
         <div className="container relative">
